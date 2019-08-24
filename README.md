@@ -10,4 +10,4 @@ Flutterwave is a global payments technology company that helps businesses make a
 
 Read more about flutterwave here  https://bellacreams.blogspot.com/2019/08/flutterwave-inc.html
 lucid.blog
-Read lucid.blog post.... https://lucid.blog/vikkibabs
+Read lucid.blog post.... https://lucid.blog/vikkibabs/post/1566667995
